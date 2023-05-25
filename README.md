@@ -22,7 +22,7 @@ To run this project locally, you need to have the following dependencies install
 ## Usage
 1. Modify the URLs in the script to target the websites you want to scrape job listings from.
 2. Customize the scraping logic and data extraction according to your requirements.
-3. Run the script using the following command:
+3. Run the script using the following command: node app.js
 
 4. Once the script finishes execution, you will find the generated XLSX files in the output directory.
 
